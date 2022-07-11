@@ -42,7 +42,7 @@ We provide the following optional arguments in ./quick_start/main.py
 | --w | 1  | write cost matrices |
 
 ### Other experiments:
-We also have code for the second and third experiments in the paper in the ''examples'' directory. You can use Jupyter notebook/lab to run them.
+We also have code for the second and third experiments in the paper in the ''examples'' directory. You could use Jupyter notebook/lab to run them.
 
 ```python
 # Experiments to measure maximum performance of graph classification
