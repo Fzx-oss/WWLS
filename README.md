@@ -1,4 +1,5 @@
-# Wasserstein Weisfeiler-Lehman Subtree (WWLS)
+# Wasserstein Graph Distance based on L1-Approximated Tree Edit Distance between Weisfeiler–Lehman Subtrees
+## Wasserstein Weisfeiler-Lehman Subtree (WWLS)
 
 The WWLS is a graph metric/kernel that can measure the distance/similarity between graphs. As the name implies, this is based on the Wasserstein distance and WL test. Please see the paper for details. 
 
@@ -40,6 +41,15 @@ python main.py --dataset PTC_MR --h 2
 
 ### Other experiments:
 We also have code for the second and third experiments in the paper in the ''example'' directory. You can use Jupyter notebook/lab to run them.
+
+```python
+# Experiments to measure maximum performance of graph classification
+examples/maximum_performace.ipynb
+
+# Experiments to verify performance as a metric
+examples/distance.ipynb
+```
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
