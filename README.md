@@ -3,7 +3,7 @@
 
 The WWLS is a graph metric/kernel that can measure the distance/similarity between graphs. As the name implies, this is based on the Wasserstein distance and WL test. Please see the paper for details. 
 
-Our code uses PyTorch >= 1.10 and PyG for TUD datasets and C++14 for the tree calculation, so please install PyTorch >= 1.10 and the corresponding PyG environment on your machine and build a C++ environment beforehand.
+Our code uses PyTorch >= 1.10 and PyG for TUD datasets and C++14 for the tree computation, so please install PyTorch >= 1.10 and the corresponding PyG on your machine and build a C++ environment beforehand.
 
 [PyG installation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
