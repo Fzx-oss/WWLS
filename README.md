@@ -40,7 +40,7 @@ python main.py --dataset PTC_MR --h 2
 | --w | 1  | write cost matrices |
 
 ### Other experiments:
-We also have code for the second and third experiments in the paper in the ''example'' directory. You can use Jupyter notebook/lab to run them.
+We also have code for the second and third experiments in the paper in the ''examples'' directory. You can use Jupyter notebook/lab to run them.
 
 ```python
 # Experiments to measure maximum performance of graph classification
