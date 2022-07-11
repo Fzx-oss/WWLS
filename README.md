@@ -29,7 +29,7 @@ python main.py --dataset PTC_MR --h 2
 ```
 
 ### Optional arguments:
-We provide the following optional arguments in quick_start/main.py
+We provide the following optional arguments in ./quick_start/main.py
 
 |  Parameter |  Defalut  | Description |
 | ---- | ---- | ---- |
