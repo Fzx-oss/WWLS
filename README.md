@@ -53,14 +53,14 @@ examples/distance.ipynb
 ```
 
 ### Citation
-Please use the following BibTeX citation when using our method or comparing against it:
+If you use this toolbox for your research and find it useful, please cite WWLS using the BibTeX reference below.
 
 ```
 @misc{2207.04216,
-Author = {Zhongxi Fang and Jianming Huang and Xun Su and Hiroyuki Kasai},
-Title = {Wasserstein Graph Distance based on $L_1$-Approximated Tree Edit Distance between Weisfeiler-Lehman Subtrees},
-Year = {2022},
-Eprint = {arXiv:2207.04216},
+    Author = {Zhongxi Fang and Jianming Huang and Xun Su and Hiroyuki Kasai},
+    Title = {Wasserstein Graph Distance based on $L_1$-Approximated Tree Edit Distance between Weisfeiler-Lehman Subtrees},
+    Year = {2022},
+    Eprint = {arXiv:2207.04216},
 }
 ```
 
