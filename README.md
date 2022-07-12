@@ -18,14 +18,14 @@ sudo bash setup.sh
 
 ### Example:
 ```python
-cd quick_start
+$ cd quick_start
 
 # Quick tart (graph classification experiments)
-python main.py
+$ python main.py
 
 # Run PTC-MR with 2 iterations
-cd quick_start
-python main.py --dataset PTC_MR --h 2
+$ cd quick_start
+$ python main.py --dataset PTC_MR --h 2
 ```
 
 ### Optional arguments:
@@ -52,6 +52,17 @@ examples/maximum_performace.ipynb
 examples/distance.ipynb
 ```
 
+### Citation
+Please use the following BibTeX citation when using our method or comparing against it:
+
+```
+@misc{2207.04216,
+Author = {Zhongxi Fang and Jianming Huang and Xun Su and Hiroyuki Kasai},
+Title = {Wasserstein Graph Distance based on $L_1$-Approximated Tree Edit Distance between Weisfeiler-Lehman Subtrees},
+Year = {2022},
+Eprint = {arXiv:2207.04216},
+}
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
