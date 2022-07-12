@@ -52,7 +52,7 @@ examples/maximum_performace.ipynb
 examples/distance.ipynb
 ```
 
-### Citation
+## Citation
 If you use this toolbox for your research and find it useful, please cite WWLS using the BibTeX reference below.
 
 ```
